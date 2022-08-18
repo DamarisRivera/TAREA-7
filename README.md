@@ -20,33 +20,33 @@ Analizar y resolver problemas utilizando los conocimientos de los capítulos res
 	
 ## 2. Marco Teórico
 
-#### CAPITULO 11 
+#### CAPITULO 13 
 
 
 
-#### CAPITULO 12 
+#### CAPITULO 14 
 
 
 
 ## 3. Explicación y resolución de ejercicios 
 
-#### CAPITULO 11 
+#### CAPITULO 13
 
 #### PROBLEMAS 
 
-##### *SECCIÓN 11-1 	 La forma de onda sinusoidal*
+##### *SECCIÓN 13-1 	 La forma de onda sinusoidal*
 	
 ##### 
 
-##### *SECCIÓN 11-3 	 Valores sinusoidales de voltaje y corriente*
+##### *SECCIÓN 13-3 	 Valores sinusoidales de voltaje y corriente*
 
 ##### 
 
-##### *SECCIÓN 11-4 	 Medición angular de una onda seno*
+##### *SECCIÓN 13-4 	 Medición angular de una onda seno*
 
 ##### 
 	
-##### *SECCIÓN 11-5 	 La fórmula de la onda seno*
+##### *SECCIÓN 13-5 	 La fórmula de la onda seno*
 
 ##### 
 
@@ -58,27 +58,31 @@ Analizar y resolver problemas utilizando los conocimientos de los capítulos res
 
 ##### 
 
-##### *SECCIÓN 11-8 	  Voltajes superpuestos de cd y de ca*
+#### CAPITULO 14
+
+#### PROBLEMAS 
+
+##### *SECCIÓN 14-1 	  Voltajes superpuestos de cd y de ca*
 
 ##### 
 
-##### *SECCIÓN 11-9 	  Formas de onda no sinusoidales*
-
-##### 
-
-##### 
-
-##### *SECCIÓN 11-10 	  El osciloscopio*
-
-##### 
+##### *SECCIÓN 14-2 	  Formas de onda no sinusoidales*
 
 ##### 
 
 ##### 
 
+##### *SECCIÓN 14-3 	  El osciloscopio*
+
 ##### 
 
-##### *SECCIÓN 12-4 	  Capacitores en paralelo*
+##### 
+
+##### 
+
+##### 
+
+##### *SECCIÓN 14-4 	  Capacitores en paralelo*
 
 ##### 
 
