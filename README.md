@@ -95,9 +95,30 @@ Analizar y resolver problemas utilizando los conocimientos de los capítulos res
 
 ![image](https://user-images.githubusercontent.com/105671763/185483711-f2936006-4d7e-416a-8f3d-59b10ce90ce8.png)
 
-	
+	1.5 mH = 1500 𝜇H
 
+	Posición 1
+	IT = L1 + L2 + L4
+	IT = 330 + 680 + 800
+	IT = 1810 𝜇H
+	
+	Posición 2
+	IT = L2 + L4
+	IT = 680 + 800
+	IT = 1480 𝜇H
+	
+	Posición 3
+	
+	IT = L4
+	IT = 800 𝜇H
+	
+	Posición 4
+	IT = 1500 + 800
+	IT = 2300 𝜇H
+	
 ##### 16. Usted tiene un inductor de 12 mH, y éste es su valor más bajo, pero necesita una inductancia de 8 mH. ¿Qué valor puede utilizar en paralelo con el inductor de 12 mH para obtener 8 mH?
+
+	
 
 ##### 18. Determine la inductancia total de cada circuito mostrado en la figura 13-47.
 
