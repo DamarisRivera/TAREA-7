@@ -43,18 +43,34 @@ Analizar y resolver problemas utilizando los conocimientos de los capítulos res
 
 ##### *SECCIÓN 13-1 	 El inductor básico*
 	
-##### 2. Convierta los siguientes valores en milihenries:
+##### 2. Convierta los siguientes valores en microhenries:
 
 	(a) 300 mH
+	    300000 𝜇H
 	(b) 0.08 H
+	    80000 𝜇H
 	(c) 5 mH
+	    5000 𝜇H
 	(d) 0.00045 mH
+	    0.45 𝜇H
 
 ##### 4. Se inducen 50 volts en una bobina de 25 mH. ¿Con qué rapidez cambia la corriente?
 
-##### 6. ¿Cuántas vueltas se requieren para producir 30 mH con una bobina enrollada sobre un núcleo cilíndrico cuya área de sección transversal mide 10 x 10^-5 m^2 y tiene longitud de 0.05 m? La permeabilidad del núcleo es de 1.2 x 10^-6 H/m. 
+	Vind = L(di/dt)
+	di/dt = Vind/L
+	di/dt = 50/0.025
+	di/dt = 2.000 A/s
 
-##### 8. Compare la inductancia de dos inductores idénticos excepto que el inductor 2 tiene dos veces la cantidad de vueltas del inductor 1.
+##### 6. ¿Cuántas vueltas se requieren para producir 30 mH con una bobina enrollada sobre un núcleo cilíndrico cuya área de sección transversal mide 10 x 10^-5 m^2 y tiene longitud de 0.05 m? La permeabilidad del núcleo es de 1.2 x 10^-6 H/m. 
+
+	L = (N^2*𝜇A)/I
+	N^2 = (0.030*0.05)/[(10 x 10^-5)(1.2 x 10^-6)] 
+	N^2 = 12500000
+	N = 3535.6 
+
+##### 8. Compare la inductancia de dos inductores idénticos excepto que el inductor 2 tiene dos veces la cantidad de vueltas del inductor 1.
+
+	
 
 ##### 10. Un estudiante enrolla 100 vueltas de alambre sobre un lápiz de 7 mm de diámetro como se muestra en la figura 13-43. El lápiz es un núcleo no magnético de tal suerte que su permeabilidad es igual a la de un vacío (4𝜋 x 10^-6 H/m). Determine la inductancia de la bobina que se formó.
 
