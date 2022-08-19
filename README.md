@@ -142,16 +142,33 @@ Analizar y resolver problemas utilizando los conocimientos de los capítulos res
 ##### 20. En un circuito RL en serie, determine cuánto tiempo se lleva la corriente para incrementarse a su valor total con cada una de las siguientes combinaciones:
 
 	(a) R = 56 𝛺, L = 50 𝜇H
+	    T = 5(50/56)
+	    T = 4.46 𝜇S
+	    
 	(b) R = 3300 𝛺, L = 15 mH
+	    T = 5(15/3300)
+	    T = 22.7 𝜇S
+	    
 	(c) R = 22 K𝛺, L = 100 mH
+	    T = 5(100/22)
+	    T = 22.73 𝜇S
 
 ##### 22. Para el inductor ideal de la figura 13-49, calcule la corriente en cada uno de los siguientes instantes:
 
 ![image](https://user-images.githubusercontent.com/105671763/185484699-b236115a-20c9-4968-a90e-de0d5ad62109.png)
+T = 9.15 𝜇S; IF = 1.22 mA
 
 	(a) 10 𝜇s
+	    i = 1.22*(1-e^(-10/9.15))
+	    i = 0.811 mA
+	    
 	(b) 20 𝜇s
+	    i = 1.22*(1-e^(-20/9.15))
+	    i = 1.08 mA
+	    
 	(c) 30 𝜇s
+	    i = 1.22*(1-e^(-30/9.15))
+	    i = 1.17 mA
 
 ##### 24. Repita el problema 22 para los siguientes instantes:
 
