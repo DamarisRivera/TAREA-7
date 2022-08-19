@@ -70,19 +70,32 @@ Analizar y resolver problemas utilizando los conocimientos de los capítulos res
 
 ##### 8. Compare la inductancia de dos inductores idénticos excepto que el inductor 2 tiene dos veces la cantidad de vueltas del inductor 1.
 
-	
+	Como el inductor dos duplicará la cantidad de vueltas que el primer inductor, se concluye que el inductor 2 será mayor al inductor 1.
 
 ##### 10. Un estudiante enrolla 100 vueltas de alambre sobre un lápiz de 7 mm de diámetro como se muestra en la figura 13-43. El lápiz es un núcleo no magnético de tal suerte que su permeabilidad es igual a la de un vacío (4𝜋 x 10^-6 H/m). Determine la inductancia de la bobina que se formó.
 
 ![image](https://user-images.githubusercontent.com/105671763/185483413-a708615d-1152-481b-b132-a43e7fbc976e.png)
 
+	A = 𝜋*r^2 = 𝜋*(0.0035)^2 
+	A = 0.00003
+	
+	L = (N^2*𝜇A)/I
+	L = [100^2*(4𝜋 x 10^-6)*(0.00003)]/[0.035]
+	L = 0.10 mH
+
 ##### *SECCIÓN 13-3 	Inductores en serie y en paralelo*
 
 ##### 12. Usted requiere una inductancia total de 50 mH. Tiene disponibles una bobina de 10 mH y otra de 22 mH. ¿Cuánta inductancia adicional necesita?
 
+	Lx = LT - Lb1 - Lb2
+	Lx = 50 mH - 10 mH - 22 mH
+	Lx = 18 mH
+
 ##### 14. En la figura 13-45, ¿cuál es la inductancia total entre los puntos A y B con cada posición del interruptor?
 
 ![image](https://user-images.githubusercontent.com/105671763/185483711-f2936006-4d7e-416a-8f3d-59b10ce90ce8.png)
+
+	
 
 ##### 16. Usted tiene un inductor de 12 mH, y éste es su valor más bajo, pero necesita una inductancia de 8 mH. ¿Qué valor puede utilizar en paralelo con el inductor de 12 mH para obtener 8 mH?
 
