@@ -28,7 +28,12 @@ Analizar y resolver problemas utilizando los conocimientos de los capítulos res
 
 #### CAPITULO 14 
 
-
+![image](https://user-images.githubusercontent.com/105671763/185537607-fa840cb6-0e1f-440c-a9d5-555fded155c8.png)
+![image](https://user-images.githubusercontent.com/105671763/185537630-71c0c903-5bc8-40f6-8e53-baa4ecdbb54d.png)
+![image](https://user-images.githubusercontent.com/105671763/185537652-0d598d11-c5aa-41f5-af5b-443a2dd93027.png)
+![image](https://user-images.githubusercontent.com/105671763/185537681-7c852b83-2a38-402e-9922-3dff635eb2c6.png)
+![image](https://user-images.githubusercontent.com/105671763/185537706-c2ed2aad-fa50-4fe5-be2e-ab8c76fcdec7.png)
+![image](https://user-images.githubusercontent.com/105671763/185537724-9e4aa58d-f7af-431c-82ca-6605ada9e1a9.png)
 
 ## 3. Explicación y resolución de ejercicios 
 
