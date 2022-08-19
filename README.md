@@ -173,26 +173,50 @@ T = 9.15 𝜇S; IF = 1.22 mA
 ##### 24. Repita el problema 22 para los siguientes instantes:
 
 	(a) 65 𝜇s
+	    i = 1.22*(1-e^(-65/9.15))
+	    i = 1.218 mA
+	    
 	(b) 75 𝜇s
+	    i = 1.22*(1-e^(-75/9.15))
+	    i = 1.219 mA
+	    
 	(c) 85 𝜇s
+	    i = 1.22*(1-e^(-85/9.15))
+	    i = 1.22 mA
 
 ##### 26. 
 	(a) ¿Cuál es la polaridad del voltaje inducido en el inductor de la figura 13-49 cuando la onda cuadrada está creciendo?
 ![image](https://user-images.githubusercontent.com/105671763/185484699-b236115a-20c9-4968-a90e-de0d5ad62109.png)
 
+	Como se opone al cambio de corriente.
+
 	(b) ¿Cuál es la corriente justo antes de que la onda cuadrada se reduzca a cero?
+	IF =22 mA
 
 ##### 28.
 	(a) ¿Cuál es la corriente en el inductor 1.0 𝜇s después de que se cierra el interruptor en la figura 13-50?
 ![image](https://user-images.githubusercontent.com/105671763/185485303-1cbd5b35-5353-4421-a4e1-5b96e71c2f8f.png)
 	
+	i = 136 uA
+	
 	(b)  ¿Cuál es la corriente después de que transcurren 5𝑇?
+	
+	i = 427 uA
 
 ##### *SECCIÓN 13-5 	  Inductores en circuitos de ca*
 
 ##### 30. Determine la resistencia total para cada circuito de la figura 13-46 cuando se aplica voltaje a una frecuencia de 5 kHz entre las terminales.
 
 ![image](https://user-images.githubusercontent.com/105671763/185485479-f47cc9d3-eb4b-4144-8e9d-0d4588ecdbea.png)
+
+	(a)  LT = 4.33 H
+	     XL = 136 k𝛺
+	
+	(b) LT = 50mH
+	    XL = 1.57 k𝛺
+	
+	(c) LT = 57 uH
+	    XL = 1.79 𝛺
 
 ##### 32. En la figura 13-51, determine la corriente rms total. ¿Cuáles son las corrientes a través de L2 y L3?
 
@@ -201,6 +225,12 @@ T = 9.15 𝜇S; IF = 1.22 mA
 ##### 34. En la figura 13-51, determine la potencia reactiva.
 
 ![image](https://user-images.githubusercontent.com/105671763/185485625-baf5b318-89ac-49e1-adde-6bb03af36f72.png)
+
+	XL = 2*PI*f*LT
+	XL = 994 𝛺
+	
+	Pr = 10.1^2*994
+	Pr = 101 mVAR
 
 #### CAPITULO 14
 
