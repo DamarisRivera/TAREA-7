@@ -415,7 +415,7 @@ https://youtu.be/s2KafkIqys8
 
 ## 5. Conclusiones
 
-- Los inductores o bobinas al interactura entre si crean un campo electromagnético, las líneas de fuerza localizadas alrededor de espiras adjuntas y forman un fuerte campo electromagnético adentro y en torno de la bobina. 
+- Los inductores o bobinas al interactura entre si crean un campo electromagnético, las líneas de fuerza localizadas alrededor de espiras adjuntas y forman un fuerte campo electromagnético adentro y en torno de la bobina. 
 - Los transformadores se basan en el principio de la inductancia mutua, es decir, cuando dos bobinas o  más se encuentran cerca una de otra.
 
 ## 6. Bibliografía
