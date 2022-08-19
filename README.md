@@ -203,11 +203,28 @@ Analizar y resolver problemas utilizando los conocimientos de los capítulos res
 
 ##### 8. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 10 para obtener un voltaje secundario de 60 V de ca?
 
+	
+
 ##### 10. El devanado primario de un transformador tiene 1200 V a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 0.2?
+
+	Vsec = 0.2*1200
+	Vsec = 240 V
 
 ##### 12. ¿Cuál es el voltaje a través de la carga en cada uno de los circuitos de la figura 14-43?
 
 ![image](https://user-images.githubusercontent.com/105671763/185486430-31b500c0-0106-4ade-892f-be0d82f12087.png)
+
+	(a) VL = (Nsec/Npri)*Vpri
+	    VL = (1/20)*120
+	    VL = 6 V
+	
+	(b) VL = (Nsec/Npri)*Vpri
+	    VL = (2/1)*0
+	    VL = 0 V
+	
+	(c) VL = (Nsec/Npri)*Vpri
+	    VL = (4/1)*10
+	    VL = 40 V
 
 ##### *SECCIÓN 14-4 	   Carga del devanado secundario*
 
@@ -215,17 +232,30 @@ Analizar y resolver problemas utilizando los conocimientos de los capítulos res
 
 ![image](https://user-images.githubusercontent.com/105671763/185486587-0ad8901a-77a2-436a-a656-91f927f2eb65.png)
 
+	n = Npri/Nsec 
+	n = 1/3
+	
+	Is = 1/3*Ipri
+	Is = 33.33 mA
+
 ##### *SECCIÓN 14-5 	   Carga reflejada*
 
 ##### 16. ¿Cuál es la resistencia en la carga vista por la fuente en la figura 14-47?
 
 ![image](https://user-images.githubusercontent.com/105671763/185486840-991b34b1-8947-4248-b92f-3a15fcc07c6c.png)
 
+	Rpri = (1/n)^2*RL
+	Rpri = (1/5)^2*680
+	Rpri = 27.2 𝛺
+	
 ##### *SECCIÓN 14-6 	    Igualación de impedancia*
 
 ##### 18. En el circuito de la figura 14-49, encuentre la relación de vueltas requerida para suministrar potencia máxima al altavoz de 4 𝛺.
 
 ![image](https://user-images.githubusercontent.com/105671763/185487025-f7e9090c-5136-4262-ac82-d08b73e07c9b.png)
+
+	n = raíz(4/16)
+	n = 0.5
 
 ##### 20. Encuentre la relación de vueltas apropiada en cada una de las posiciones mostradas en la figura 14-50 para transferir potencia máxima a cada carga cuando la resistencia de fuente es de 10 Æ. Especifique el número de vueltas requerido para el devanado secundario si el devanado primario tiene 1000 vueltas.
 
@@ -234,6 +264,10 @@ Analizar y resolver problemas utilizando los conocimientos de los capítulos res
 ##### *SECCIÓN 14-7 	   Características de un transformador no ideal*
 
 ##### 22. ¿Cuál es la eficiencia del transformador en el problema 21?
+
+	eficiencia = Psal/Pent
+	eficiencia = 94.5/1000
+	eficiencia = 94.5 %
 
 ##### 24. La potencia nominal de cierto transformador es de 1 kVA. El transformador opera a 60 Hz y 120 V de ca. El voltaje secundario es de 600 V. 
 
