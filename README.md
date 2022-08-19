@@ -257,11 +257,17 @@ Analizar y resolver problemas utilizando los conocimientos de los capítulos res
 
 ![image](https://user-images.githubusercontent.com/105671763/185487863-2f823486-b84d-42ce-8b02-272b228a0a24.png)
 
+	
+
 ##### *SECCIÓN 14-9 	    Localización de fallas*
 
 ##### 32. Cuando se aplican 120 V de ca a través del devanado primario de un transformador y se verifica el voltaje en el devanado secundario, se leen 0 V. Una investigación más a fondo muestra que no hay corriente en el primario ni en el secundario. Enumere las posibles fallas. ¿Cuál es el siguiente paso en la investigación del problema?
 
-##### 34. Mientras usted revisa un transformador, se da cuenta que el voltaje secundario es menor de lo que debería ser aunque no es de cero. ¿Cuál es la falla más probable?
+	Cambiar el transformador del devanado primario.
+
+##### 34. Mientras usted revisa un transformador, se da cuenta que el voltaje secundario es menor de lo que debería ser aunque no es de cero. ¿Cuál es la falla más probable?
+
+	Puede que no exista voltaje en la carga o que no existe corriente en el circuito secundario. 
 
 ## 4. Video
 
