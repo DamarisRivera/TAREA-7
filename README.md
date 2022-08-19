@@ -22,6 +22,9 @@ Analizar y resolver problemas utilizando los conocimientos de los capítulos res
 
 #### CAPITULO 13 
 
+![image](https://user-images.githubusercontent.com/105671763/185533143-8a469979-565e-4ad8-bfc4-cad1f44454b1.png)
+![image](https://user-images.githubusercontent.com/105671763/185533185-1feebbc1-d204-447a-ac5a-7f264a9db0be.png)
+![image](https://user-images.githubusercontent.com/105671763/185533209-13ae7849-5bf7-44e8-a195-be22cf50a962.png)
 
 
 #### CAPITULO 14 
