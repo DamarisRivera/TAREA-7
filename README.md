@@ -238,8 +238,19 @@ Analizar y resolver problemas utilizando los conocimientos de los capítulos res
 ##### 24. La potencia nominal de cierto transformador es de 1 kVA. El transformador opera a 60 Hz y 120 V de ca. El voltaje secundario es de 600 V. 
 
 	(a) ¿Cuál es la corriente máxima en la carga?
+	    Imax = Pn/Vsec
+	    Imax = 1/600
+	    Imax = 1.67 A
+	    
 	(b) ¿Cuál es el valor RL más pequeño que puede ser excitado?
+	    Rmin = Vsec/imax
+	    Rmin = 600/1.67
+	    Rmin = 359 𝛺
+	    
 	(c) ¿Cuál es el capacitor más grande que se puede conectar como carga?
+	    Cmax = 1/2𝜋fXc
+	    Cmax = 1/(2𝜋*60*359)
+	    Cmax = 7.4 𝜇F
 
 ##### 26. La potencia nominal de cierto transformador es de 5 kVA, 2400/120 V, a 60 Hz. 
 
