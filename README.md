@@ -244,8 +244,19 @@ Analizar y resolver problemas utilizando los conocimientos de los capítulos res
 ##### 26. La potencia nominal de cierto transformador es de 5 kVA, 2400/120 V, a 60 Hz. 
 
 	(a) ¿Cuál es la relación de vueltas si los 120 V son el voltaje secundario?
+	    n = Vsec/Vprim
+	    n = 120/2400
+	    n = 0.05 V
+	    
 	(b) ¿Cuál es la corriente nominal del secundario si los 2400 V son el voltaje primario?
+	    Isec = Pn/Vsec
+	    Isec = 5/120
+	    Isec = 41.7 A
+	    
 	(c) ¿Cuál es la corriente nominal del devanado primario si los 2400 V son el voltaje primario?
+	    Iprim = n*Isec
+	    Iprim = 0.05*41.7
+	    Iprim = 2.09 A
 
 ##### *SECCIÓN 14-8 	   Transformadores con tomas y devanados múltiples*
 
@@ -253,11 +264,37 @@ Analizar y resolver problemas utilizando los conocimientos de los capítulos res
 
 ![image](https://user-images.githubusercontent.com/105671763/185487753-53eb6e28-49e6-4413-95be-2a64ab3103eb.png)
 
+	1) n = Vsec/Vprim
+	   n = 24/12
+	   n = 2
+	   
+	2) n = Vsec/Vprim
+	   n = 6/12
+	   n = 0.5
+	
+	3) n = Vsec/Vprim
+	   n = 3/12
+	   n = 0.25
+
 ##### 30. En la figura 14-54, cada primario puede acomodar 120 V de ca. ¿Cómo se deberán conectar los primarios para que operen con 240 V de ca? Determine cada voltaje secundario para operación con 240 V
 
 ![image](https://user-images.githubusercontent.com/105671763/185487863-2f823486-b84d-42ce-8b02-272b228a0a24.png)
 
+	Voltaje 1: 100 vueltas
+	V1 = (100/2000)*240
+	V1 = 12 V
 	
+	Voltaje 2: 200 vueltas
+	V2 = (200/2000)*240
+	V2 = 24 V
+	
+	Voltaje 3: 500 vueltas
+	V3 = (500/2000)240
+	V3 = 60 V
+	
+	Voltaje 4: 1000 vueltas
+	V4 = (1000/2000)*240
+	V4 = 120 V
 
 ##### *SECCIÓN 14-9 	    Localización de fallas*
 
