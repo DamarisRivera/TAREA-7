@@ -118,11 +118,24 @@ Analizar y resolver problemas utilizando los conocimientos de los capítulos res
 	
 ##### 16. Usted tiene un inductor de 12 mH, y éste es su valor más bajo, pero necesita una inductancia de 8 mH. ¿Qué valor puede utilizar en paralelo con el inductor de 12 mH para obtener 8 mH?
 
-	
+	8 mH = 12L/(L + 12)
+	8L + 96 = 12L
+	L = 96/4
+	L = 24 mH
 
 ##### 18. Determine la inductancia total de cada circuito mostrado en la figura 13-47.
 
 ![image](https://user-images.githubusercontent.com/105671763/185483879-ce72c875-6ea0-4a79-bef5-307eab7270cf.png)
+
+	(a) LT = [(100*50)/(150)] + [(60*40)/(100)] 
+	    LT = 172/3
+	    LT = 57.33 mH
+
+	(b) LT = (12*6)/(12+6)
+	    LT = 4 mH
+	
+	(c) LT = (4*2)/(4+2) + 4
+	    LT = 5.33 mH
 
 ##### *SECCIÓN 13-4 	 Inductores en circuitos de cd*
 
