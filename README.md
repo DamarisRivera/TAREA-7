@@ -10,7 +10,7 @@
   
 ### 1.1 Objetivo General
         
-Analizar y resolver problemas utilizando los conocimientos de los capítulos respectivos a la corriente y voltaje de forma alterna y como funcionan los capacitores, usando la teoría para la correcta aplicación de los temas en los ejercicios prácticos.
+Analizar y resolver problemas utilizando los conocimientos de los capítulos respectivos a la corriente y voltaje de forma alterna y como funcionan los inductores y transformadores, usando la teoría para la correcta aplicación de los temas en los ejercicios prácticos.
 	
 ### 1.2 Objetivos Específicos
         
@@ -235,8 +235,8 @@ Analizar y resolver problemas utilizando los conocimientos de los capítulos res
 
 ## 5. Conclusiones
 
--
--
+- Los inductores o bobinas al interactura entre si crean un campo electromagnético, las líneas de fuerza localizadas alrededor de espiras adjuntas y forman un fuerte campo electromagnético adentro y en torno de la bobina. 
+- Los transformadores se basan en el principio de la inductancia mutua, es decir, cuando dos bobinas o  más se encuentran cerca una de otra.
 
 ## 6. Bibliografía
 
