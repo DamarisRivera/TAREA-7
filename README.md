@@ -193,17 +193,28 @@ Analizar y resolver problemas utilizando los conocimientos de los capítulos res
 
 ##### 2. Determine el coeficiente de acoplamiento cuando LM = 1 𝜇H, L1 = 8 𝜇H, y L2 = 2 𝜇H.
 
+	k = Lm/raíz(L1*L2)
+	k = 1/raíz(16)
+	k = 0.25
+
 ##### *SECCIÓN 14-2 	  El transformador básico*
 
 ##### 4. Cierto transformador tiene 250 vueltas en su devanado primario. Para duplicar el voltaje, ¿cuántas vueltas debe haber en el devanado secundario?
+
+	nsec = 2*250 =  500 vueltas
 
 ##### *SECCIÓN 14-3 	   Transformadores elevadores y reductores*
 
 ##### 6. Para elevar 240 V de ca a 720 V, ¿cuál debe ser la relación de vueltas?
 
+	n = Vsec/Vpri
+	n = 720/240
+	n = 3 
+
 ##### 8. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 10 para obtener un voltaje secundario de 60 V de ca?
 
-	
+	Vpri = 1/109*60
+	Vpri = 6 V
 
 ##### 10. El devanado primario de un transformador tiene 1200 V a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 0.2?
 
